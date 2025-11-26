@@ -1,15 +1,36 @@
-## 👩‍💻 Data Science Enthusiast  Python Developer  ML Explorer
+# 👩‍💻 Дарья Вишневская  
 
+📚 **Data Science Learner** | 🧪 **ML Researcher** | 🐍 **Python Developer**
 
-Привет! Меня зовут Дарья Вишневская, я начинающий специалист в области Data Science. 
-В 2025 году окончила курс от Яндекс.Практикум и обучалась CatBoost у Глеба Михайлова на Stepik. 
-Активно развиваюсь в машинном обучении и компьютерном зрении, ищу возможности применить свои знания в реальных проектах.
+---
 
-🔧 Навыки и инструменты:
+### 🎓 Обо мне
+В 2025 году окончила курс **Яндекс.Практикум** по Data Science и прошла обучение по **CatBoost** на Stepik.  
+Интересуюсь исследованием алгоритмов, анализом данных и применением ML в реальных проектах.  
 
-- Языки и библиотеки: Python, NumPy, pandas, Matplotlib, Seaborn
-- Машинное обучение: Scikit-learn, CatBoost, LightGBM, XGBoost
-- Глубокое обучение: TensorFlow, PyTorch
-- Области интересов: Computer Vision, анализ данных, визуализация, оптимизация моделей
-🚀 В поиске первой роли в Data Science, готова учиться, расти и приносить ценность команде.
-  
+---
+
+### 🛠️ Навыки и технологии
+- 🐍 **Python**  
+- 📊 **pandas, NumPy**  
+- 🎨 **Matplotlib, Seaborn**  
+- ⚙️ **ML**: Scikit-learn, CatBoost, LightGBM, XGBoost  
+- 🧠 **DL**: TensorFlow, PyTorch  
+
+---
+
+### 🌟 Области интересов
+- Computer Vision  
+- Data Analysis  
+- Model Optimization  
+
+---
+
+### 📬 Контакты
+- ✈️ Telegram: [@Darya_Vish](https://t.me/Darya_Vish)  
+- 📧 Email: **krasnayada@yandex.ru**
+
+---
+
+### 🚀 Цели
+Ищу первую роль в области **Data Science**, чтобы применить знания на практике, развиваться и приносить ценность команде.
